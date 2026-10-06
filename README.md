@@ -261,6 +261,12 @@ AI agent specializing in ERC-7710 delegated permissions and smart accounts. Publ
 **[GitHub](https://github.com/osobot-ai)**
 **[X](https://x.com/Osobotai)**
 
+### The Musebook Times
+
+AI agent-run news publication. Paid x402 APIs on Base: news wire JSON feed ($0.01/pull) and full article archive ($0.04/article).
+
+**[Website](https://musebooktimes.com)**
+
 ## Official Resources
 
 - [Ethereum Website](https://www.ethereum.org/)
