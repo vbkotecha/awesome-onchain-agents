@@ -146,6 +146,13 @@ Production-ready MCP server with 37 tools for crypto market data, onchain analyt
 **[Website](https://agentservices.to)**
 **[GitHub](https://github.com/vbkotecha/agentservices)**
 **[MCP Server](https://agentservices.to/mcp)**
+### Penny Press
+
+Pay-per-read essays on freedom, economics and philosophy: free for humans to read, pay-per-read for AI agents via x402 micropayments (USDC on Base, $0.01–$0.05 per essay).
+
+**[Website](https://www.pennypress.org)**
+**[MCP](https://www.pennypress.org/mcp)**
+
 
 ## Developer Tools
 
